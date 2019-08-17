@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1566079364 source:/home/spejskau/Documents/CS323-PZ02-BojanPetrovic2745/CS323-DZ15-BojanPetrovic2745/main.cpp
+	<iostream>
+	<array>
+	<algorithm>
+	<math.h>
+
